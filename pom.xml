@@ -7,7 +7,6 @@
         <version>0.1</version>
     </parent>
 
-    <groupId>com.github.davidmoten</groupId>
     <artifactId>authentication-util</artifactId>
     <packaging>jar</packaging>
     <version>0.2-SNAPSHOT</version>
